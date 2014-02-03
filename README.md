@@ -1,4 +1,4 @@
-impress.js
+﻿impress.js
 ============
 
 It's a presentation framework based on the power of CSS3 transforms and 
@@ -324,3 +324,9 @@ Copyright 2011-2012 Bartek Szopka
 Released under the MIT and GPL Licenses.
 
 
+=======
+InercyGames
+===========
+
+Presentación para el Dr. Martín Olguín 
+>>>>>>> 4e2d964c95517fe47d996e1815baea9ddfb2c9f0
